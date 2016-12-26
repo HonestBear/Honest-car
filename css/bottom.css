@@ -1,0 +1,9 @@
+.bottomNav{width:1520px;padding-left: 20%;color: rgb(113,113,113);}
+.bottomNav .title .title-span{color: #ffffff;font-weight: 700;}
+.bottomNav .title {height: 120px;width:150px;float: left;margin-top: 35px;margin-right: 48px;}
+.bottomNav .title a {font-size: 13px;display: block;margin-top: 18px}
+.bottomNav .title .title-div{font-size: 12px;margin-top: 20px}
+.bottomNav .title img{margin-left: 34px}
+.bottomNav .city{height: 60px;width:70%;overflow: hidden;font-size: 12px;padding-top: 45px; padding-bottom: 45px; }
+.bottomNav .city span{display:inline-block;margin-right: 16px;margin-top: 16px}
+.bottomNav .bottom-bottom{font-size: 12px}

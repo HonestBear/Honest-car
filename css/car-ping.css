@@ -1,0 +1,6 @@
+#body01 .boxstyle .spanstyle{ display:inline-block;height: 32px;width: 52px;border: 1px solid silver;
+	font-size: 20px; font-weight: bold; color: #666; text-align: center; line-height: 30px; float: left }
+#body01 .boxstyle{height: 52px;width:1400px;margin-bottom: 26px}
+#body01 .boxstyle .boxDstyle .astyle{padding: 10px 20px 10px 0 ; color: #666; line-height: 32px; font-size: 14px;}
+#body01 .boxstyle .boxDstyle{height: 52px;width: 1000px;margin-left: 90px}
+#body01{margin-left: 18%}

@@ -1,0 +1,10 @@
+.spanstyle{ display:block;height: 32px;width: 52px;border: 1px solid silver;
+	font-size: 20px; font-weight: bold; color: #666; text-align: center; line-height: 30px; float: left;margin-bottom: 230px;margin-right: 30px }
+.h2style{ font-size: 20px; color: #333; margin-top: 20px; text-align: left; font-weight: bold;margin-bottom: 34px }
+.boxstyle .boxSamllstyle{width:1120px;margin-bottom: 20px;line-height: 30px}
+.boxstyle .boxSamllstyle .codeCar0TitleAstyle{font-weight: bold; margin-right: 32px;;font-size: 16px }
+.boxstyle .boxSamllstyle a{margin-right: 22px;font-size: 14px}
+.boxstyle{color: rgb(102,102,102);height: 260px;width: 1200px;margin-bottom: 50px}
+.boxstyle .boxSamllstyle:nth-of-type(3) a:nth-of-type(1){display: block;margin-bottom: 10px}
+#body01{margin-left: 19%}
+#h222{margin-left: 19%}
